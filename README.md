@@ -16,10 +16,10 @@
   <br />
   <br />
 
-  <a href="https://www.linkedin.com/in/tu-usuario-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/thomas-gomez-pro" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:tu-email@gmail.com">
+  <a href="mailto:thomasgomezone@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
