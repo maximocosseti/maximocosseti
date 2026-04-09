@@ -60,11 +60,11 @@ Mi enfoque actual combina la **Ingeniería de Datos** (ETL/ELT escalables, almac
     <td width="33%" align="center" valign="top">
       <h4>💻 Backend & System</h4>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
-      <img src="https://img.shields.io/badge/EndeavourOS-7F3FBF?style=flat&logo=archlinux&logoColor=white" alt="EndeavourOS" />
+      <img src="https://img.shields.io/badge/Distros-7F3FBF?style=flat&logo=archlinux&logoColor=white" alt="zsh" />
       <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" alt="Nginx" />
       <br />
       <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/Linux_ThinkPad-000000?style=flat&logo=linux&logoColor=white" alt="Linux" />
+      <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white" alt="Linux" />
     </td>
   </tr>
 </table>
